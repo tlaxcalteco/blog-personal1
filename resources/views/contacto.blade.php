@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>blog-personal</title>
+		<title>CONTACTO</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="/css/main.css" />
@@ -24,33 +24,31 @@
 						</div>
 						<div class="content">
 							<div class="inner">
-								<h1>BLOG-PERSONAL</h1>
-								<p>PEDRO TLAXCALTECO MORALES <br>
-							    UNIVERSIDAD POLITECNICA DE TECAMAC</p>
+								<h1>CONTACTO</h1>
+                                <article id="contact">
+								<p>ME PUEDEN CONTACTAR POR MIS REDES SOCIALES</p>
+								<ul class="icons">
+									<li><a href="https://www.facebook.com/profile.php?id=100004345243495" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+									<li><a href="https://www.instagram.com/pedro_tlaxcalteco_morales/" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+									<li><a href="https://github.com/tlaxcalteco" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+								</ul>
+							</article>
 							</div>
 						</div>
-						<nav>
-							<ul>
-								<li><a href="#intro">DATOS</a></li>							
-								<li><a href="#about">METAS</a></li>
-								<!--<li><a href="#elements">Elements</a></li>-->
-							</ul>
-						</nav>
 					</header>
 
 				<!-- Main -->
 					<div id="main">
 
 						<!-- Intro -->
-							<article id="intro">
-								<h2 class="major">DATOS PERSONALES</h2>
+							<article id="FAV">
+								<h2 class="major">MUSICA PREFERIDA</h2>
 								<span class="image main"><img src="images/pic01.jpg" alt="" /></span>
-								<p>Mi nombre es Pedro Tlaxcalteco Morales, Naci el 15 de Junio del 2001 en el hospital naval Santa Catarina, Coyoacán, Ciudad de México.
-								</p>
-								<p>Estudio en la universidad politecnica de tecamac,en la carrera de ingenieria en software cursando Quinto cuatrimestre,
-									decidi estudiar esta carre porque me gustaria aprender a desarrollar paginas web, gestionar sitios web o elaborar proyectos que ayuden a la sociedad.
-								</p>
-								<h3><a href="#about">METAS</a>.</h3>
+								<p>1)A LA ANTIGUITA</p>
+								<p>2)TODAVIA ME AMAS</p>
+								<p>3)PAZ EN ESTE AMOR</p>
+								<p>4)DIA TRAS DIA</p>
+								<p>5)VANIDAD</p>
 							</article>
 
 						<!-- Work -->
